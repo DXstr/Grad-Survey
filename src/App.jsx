@@ -2,7 +2,8 @@ import { useState, useRef } from "react";
 
 const UNIVERSITIES = [
 
-
+  "October University for Modern Sciences and Arts (MSA)",
+  "(AAST)Arab Academy for Science, Technology and Maritime Transport",
   "Misr University for Science and Technology (MUST)",
   "Misr International University (MIU)",
   "German University in Cairo (GUC)",
@@ -13,7 +14,6 @@ const UNIVERSITIES = [
   "Nahda University in Beni Suef (NUB)",
   "Future University in Egypt (FUE)",
   "Egyptian Russian University (ERU)",
-  "October University for Modern Sciences and Arts (MSA)",
   "6th of October University (O6U)",
   "Delta University for Science and Technology",
   "Heliopolis University for Sustainable Development",
